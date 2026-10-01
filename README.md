@@ -20,8 +20,8 @@ This repo contains:
 
 - a short GOVERNANCE.md template. Use this to document the current situation in an early project.
 - a longer, more detailed GOVERNANCE.md template, based on standard open source models. Use this for more mature projects with more experienced stakeholders, or as a goal to work towards as a project grows
-- guidance for completing the short template
-- guidance for completing the long template
+- guidance for completing the short template (incomplete)
+- guidance for completing the long template (incomplete)
 
 ## How to use the templates
 
