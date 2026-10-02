@@ -7,7 +7,7 @@ It attempts to solve the problem that existing open source governance templates:
 - are too complicated for early public sector open source projects where it's still unclear what the project's ambitions are
 - are detailed enough to be scary for public sector policy makers and managers
 - don't help public organizations increase their digital sovereignty
-- don't address responsibility of public sector organizations for public purpose code they rely on
+- don't address responsibility of public sector organizations for public code they rely on
 
 These templates make public sector organizations responsible for product steering and setting the roadmap, financing the roadmap, making sure the code is maintained, and that there's a someone available to do the maintenance.
 
@@ -29,10 +29,13 @@ This repo contains:
 2. Customize the content in your copy:
   - square brackets: replace content with information specific to your codebase
   - capitals in parentheses: highlights content you need to make a choice about including (see guidance for more explanation)
+  - add or delete bullets (like number of people on a steering team) to match your codebase governance
 3. Save it to your codebase!
 4. Make sure your CONTRIBUTING.md is also up to date. 
 
 I recommend using the [Governance Game](https://governancegame.publiccode.net/) as input for your GOVERNANCE.md.
+
+This template assumes that projects can determine their own ideal team size based on how big the community and the codebase are.
 
 ## Public code
 

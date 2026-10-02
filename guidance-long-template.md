@@ -75,3 +75,22 @@ Since this is a reflection of reality, this is hopefully non-controversial.
 > (ONLY IF RELEVANT) [See the agenda and notes for past and upcoming product steering team meetings].
 
 Ideally these should be publicly shared so that the community understands which decisions have been made and why, and can confidently bring something to the attention of the product steering team
+
+## Technical steering
+
+> are active contributors
+
+Tech steering is deliberately limited to people who work on the repo(s).
+
+> handling code of conduct violations
+> overseeing the resolution and disclosure of security issues
+
+Even in small projects where the whole team reviews each other’s work before merging code, managing security issues and code of conduct violations should be the specific responsibility of only the most trusted project leaders.
+
+> Any active member of the community can request to become a technical steering team member by asking the technical steering team. The technical steering team will vote on it (simple majority) and explain their decision publicly.
+
+Deliberately left non-specific so that individual projects can define (based on the size/composition of their community) what counts as being an ‘active member’. The public explanation requirement will hopefully encourage the development of consistent and reasonable requirements (not driven by personal like/dislike, or commercial interests).
+
+> [present at the meeting].
+
+Only require this if you have a publicly published meeting agenda and schedule, so that members can make sure they’re present for important decisions.
