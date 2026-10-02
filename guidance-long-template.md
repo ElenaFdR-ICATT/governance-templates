@@ -55,6 +55,13 @@ Consider the longer version as a goal to work towards as the product team become
 
 Bullets can also be added individually if the product team picks them up, or moved to a different team if a deliberate decision has been made to delegate it.
 
+> Members are appointed by the current product steering team members.
+
+It's best practice to appoint people for a fixed term, potentially with an open election process to publicly discuss the needs of the codebase.
+Fixed terms create a natural review point when both the team member and the project can check if a member's expertise and availability still match the needs of the project.
+
+You can also consider adding a limit on the number of terms a member can serve in order to encourage new people into leadership and spread project leadership expertise within the community.
+
 > product steering team members must be from public organizations.
 
 Important for keeping public organizations (not vendors) centered in public sector open source ecosystems.
