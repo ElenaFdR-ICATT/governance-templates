@@ -74,7 +74,7 @@ Since this is a reflection of reality, this is hopefully non-controversial.
 
 > (ONLY IF RELEVANT) [See the agenda and notes for past and upcoming product steering team meetings].
 
-Ideally these should be publicly shared so that the community understands which decisions have been made and why, and can confidently bring something to the attention of the product steering team
+Ideally these should be publicly shared so that the community understands which decisions have been made and why, and can confidently bring something to the attention of the product steering team.
 
 ## Technical steering
 
@@ -94,3 +94,29 @@ Deliberately left non-specific so that individual projects can define (based on 
 > [present at the meeting].
 
 Only require this if you have a publicly published meeting agenda and schedule, so that members can make sure they’re present for important decisions.
+
+> product steering team, who will make the ultimate ruling
+
+Because this a governance.md for public purpose public code.
+
+> Ideally, no one company or organization will employ a simple majority of the technical steering team.
+
+This statement of intent is important for open source project sustainability, even if the current reality is that all technical expertise lies within one org.
+
+>  [See the agenda and notes for past and upcoming technical steering team meetings].
+
+Ideally these should be publicly shared so that the community understands which decisions have been made and why, and can confidently bring something to the attention of the tech steering team.
+
+> The current team members are: [name], (organization)
+
+If you have volunteers or independent experts, leave off organization. 
+
+## [Other] working group
+
+These can be groups of experts delegated to manage specific things on behalf of the product or technical steering teams, for example bullets from the longer list of product responsibilities.
+
+More of these may be needed as codebase and community complexity grow. (Example: [Django Foundation teams and working groups](https://www.djangoproject.com/foundation/teams/))
+
+> (ONLY IF RELEVANT) [Other] working group members are the community members with the best knowledge of [the thing the working group is responsible for].
+
+Insert if you want to publicly appreciate working group members for their service; edit or delete if it’s not true. (For example when these are not experts, but rather worried volunteers or enthusiastic novices who wanted to change a situation from ‘nobody is paying attention to this’ to ‘somebody is paying attention to this’.)

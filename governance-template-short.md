@@ -1,4 +1,4 @@
-# Governance template long
+# Governance template short
 
 [Codebase] was commissioned by [public organizations], [contextual explanation if not self-evident].
 It follows [pro-open source public policy, reference architecture or coding guidance] [developed/recommended/required] by [issuing public authority].
@@ -38,10 +38,10 @@ Decisions are made by simple majority and publicly explained afterwards.
 
 Since [codebase] was built (CHOOSE MOST IMPORTANT)
 
+* to fulfill a public purpose
+* as public code (leave undefined, or refer to [public money? public code!](https://publiccode.eu/) or some other relevant definition of public code)
 * as part of [local or national open source strategy]
 * as part of the [EU Open Source Strategy](https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy)
-* as public code (leave undefined, or refer to [public money? public code!](https://publiccode.eu/) or some other relevant definition of public code)
-* to fulfill a public purpose
 
 product steering team members must be from public organizations. The product steering team may invite relevant experts to join their meeting on a non-voting basis.
 

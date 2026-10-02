@@ -25,14 +25,7 @@ This project is led by two steering teams, a product team and technical team, ac
 
 The product steering team makes sure that [codebase] continues to meet the needs of the public organizations that use it.
 
-(SIMPLE) Responsibilities of the product steering team:
-
-* defining the project's vision and future ambitions
-* maintaining a product roadmap
-* making sure a developer ecosystem exists for ongoing maintenance and further development of the project
-* managing risks to the project
-
-(MORE COMPLETE) Responsibilities of the product steering team:
+Responsibilities of the product steering team:
 
 * maintaining the mission, vision, values, and scope of the project
 * collecting planned features and presenting them in a unified view
@@ -47,12 +40,12 @@ The product steering team makes sure that [codebase] continues to meet the needs
 
 Members are appointed by the current product steering team members. Decisions are made by simple majority and publicly explained afterwards.
 
-Since [codebase] was built (CHOOSE MOST IMPORTANT):
+Since [codebase] was built (CHOOSE MOST IMPORTANT)
 
-* as part of [local or national open source strategy]
-* as part of the EU Open Source Strategy
-* as public code (leave undefined, or refer to [public money? public code!](https://publiccode.eu/) or some other relevant definition of public code)
 * to fulfill a public purpose
+* as public code (leave undefined, or refer to [public money? public code!](https://publiccode.eu/) or some other relevant definition of public code)
+* as part of [local or national open source strategy]
+* as part of the [EU Open Source Strategy](https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy)
 
 product steering team members must be from public organizations. The product steering team may invite relevant experts to join their meeting on a non-voting basis.
 
@@ -126,7 +119,10 @@ We aim to be a welcoming community.
 To share your ideas for [codebase]'s code or functionality, please see CONTRIBUTING.md.
 
 (ONLY IF RELEVANT) You can also [join the discussion/connect with the community] at [community discussion forum].
+
 If you're interested in using [codebase] in your organization, we're happy to share our experience so far.
+
 Please contact:
 
-    [person], [role], [email]
+* [person], [role], [email]
+* [person], [role], [email]
