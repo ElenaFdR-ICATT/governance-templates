@@ -49,8 +49,9 @@ These categories reflect the categories that appear in the Governance Game.
 
 > Responsibilities of the product steering team:
 
-Longer version of the product responsibilities; requires a more committed and more expert product team.
+Detailed version of the product responsibilities; requires a more committed and more expert product team. 
 
+The short template has a less detailed list.
 Consider the longer version as a goal to work towards as the product team becomes more confident in their role and expertise.
 
 Bullets can also be added individually if the product team picks them up, or moved to a different team if a deliberate decision has been made to delegate it.
@@ -58,9 +59,9 @@ Bullets can also be added individually if the product team picks them up, or mov
 > Members are appointed by the current product steering team members.
 
 It's best practice to appoint people for a fixed term, potentially with an open election process to publicly discuss the needs of the codebase.
-Fixed terms create a natural review point when both the team member and the project can check if a member's expertise and availability still match the needs of the project.
+Fixed terms create a natural review point when both the team member and the community can check if a member's expertise and availability still match the needs of the codebase and the community.
 
-You can also consider adding a limit on the number of terms a member can serve in order to encourage new people into leadership and spread project leadership expertise within the community.
+You can also consider adding a limit on the number of terms a member can serve in order to encourage new people into leadership and spread leadership expertise within the community.
 
 > product steering team members must be from public organizations.
 
@@ -92,7 +93,7 @@ Tech steering is deliberately limited to people who work on the repo(s).
 > handling code of conduct violations
 > overseeing the resolution and disclosure of security issues
 
-Even in small projects where the whole team reviews each other’s work before merging code, managing security issues and code of conduct violations should be the specific responsibility of only the most trusted project leaders.
+Even in small projects where the whole team can review each other’s work before merging code, managing security issues and code of conduct violations should be the specific responsibility of only the most trusted project leaders.
 
 > Any active member of the community can request to become a technical steering team member by asking the technical steering team. The technical steering team will vote on it (simple majority) and explain their decision publicly.
 
@@ -120,10 +121,30 @@ If you have volunteers or independent experts, leave off organization.
 
 ## [Other] working group
 
-These can be groups of experts delegated to manage specific things on behalf of the product or technical steering teams, for example bullets from the longer list of product responsibilities.
+These can be groups of experts delegated to manage specific things on behalf of the product or technical steering teams, for example bullets from the list of product responsibilities.
 
 More of these may be needed as codebase and community complexity grow. (Example: [Django Foundation teams and working groups](https://www.djangoproject.com/foundation/teams/))
 
 > (ONLY IF RELEVANT) [Other] working group members are the community members with the best knowledge of [the thing the working group is responsible for].
 
 Insert if you want to publicly appreciate working group members for their service; edit or delete if it’s not true. (For example when these are not experts, but rather worried volunteers or enthusiastic novices who wanted to change a situation from ‘nobody is paying attention to this’ to ‘somebody is paying attention to this’.)
+
+## Join the community
+
+> We aim to be a welcoming community.
+
+Of course you do! Your current size or funding shouldn't limit your ambitions or enthusiasm for collaborating with other likeminded souls. 
+
+> To share your ideas for [codebase]'s code or functionality, please see CONTRIBUTING.md.
+
+For small, dormant or poorly funded projects, make sure CONTRIBUTING.md discourages surprise PRs without an issue being raised first to discuss the proposal.
+
+> (ONLY IF RELEVANT) You can also [join the discussion/connect with the community] at [community discussion forum].
+
+This could be a mailing list, GitHub Discussions, a forum like Discourse or a chat platform like Mattermost.
+Encouraging community members to learn from each other may reduce questions aimed at the product and technical steering teams.
+It may also make it more fun to be part of your community.
+
+> If you're interested in using [codebase] in your organization, we're happy to share our experience so far.
+
+Who's the best advocate for your community when it comes to marketing to other public sector organizations?

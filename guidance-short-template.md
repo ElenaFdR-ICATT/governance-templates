@@ -1,3 +1,5 @@
+> not finished yet
+
 # Guidance: short GOVERNANCE.md template
 
 This guidance follows the headings in the template.
@@ -50,3 +52,90 @@ These categories reflect the categories that appear in the Governance Game.
 > Responsibilities of the product steering team:
 
 Short, hopefully non-scary and non-controversial set of responsibilities, even for not-very-technical or experienced product teams.
+
+The long template has a more a detailed list of product responsibilities; it requires a more committed and more expert product team.
+Consider the long version as a goal to work towards as the product team becomes more confident in their role and expertise.
+Bullets from the long template can be added individually if the product team picks them up.
+
+> Members are appointed by the current product steering team members.
+
+It's best practice to appoint people for a fixed term, potentially with an open election process to publicly discuss the needs of the codebase.
+Fixed terms create a natural review point when both the team member and the community can check if a member's expertise and availability still match the needs of the codebase and the community.
+
+You can also consider adding a limit on the number of terms a member can serve in order to encourage new people into leadership and spread leadership expertise within the community.
+
+> product steering team members must be from public organizations.
+
+Important for keeping public organizations (not vendors) centered in public sector open source ecosystems.
+This is a deliberate choice to not say ‘members must represent public organizations’, since that could permit delegated responsibility by a public organization to, say, a vendor.
+
+> The current team members are:
+
+Ideally these are named individuals within an organization, celebrated publicly for their community leadership. 
+
+This public recognition might make it easier for public organization staff to negotiate time within their organization to focus on non-code contributions to the community.
+
+> Non-voting regular advisors:
+
+Creates public recognition for recurring non-public organization product steering experts, for example other org product owners or vendor project managers.
+
+Since this is a reflection of reality, this is hopefully non-controversial.
+
+> (ONLY IF RELEVANT) [See the agenda and notes for past and upcoming product steering team meetings].
+
+Ideally these should be publicly shared so that the community understands which decisions have been made and why, and can confidently bring something to the attention of the product steering team.
+
+## Technical steering
+
+> are active contributors
+
+Tech steering is deliberately limited to people who work on the repo(s).
+
+> handling code of conduct violations
+> overseeing the resolution and disclosure of security issues
+
+Even in small projects where the whole team can review each other’s work before merging code, managing security issues and code of conduct violations should be the specific responsibility of only the most trusted project leaders.
+
+> Any active member of the community can request to become a technical steering team member by asking the technical steering team. The technical steering team will vote on it (simple majority) and explain their decision publicly.
+
+Deliberately left non-specific so that individual projects can define (based on the size/composition of their community) what counts as being an ‘active member’. The public explanation requirement will hopefully encourage the development of consistent and reasonable requirements (not driven by personal like/dislike, or commercial interests).
+
+> [present at the meeting].
+
+Only require this if you have a publicly published meeting agenda and schedule, so that members can make sure they’re present for important decisions.
+
+> product steering team, who will make the ultimate ruling
+
+Because this a governance.md for public purpose public code.
+
+> Ideally, no one company or organization will employ a simple majority of the technical steering team.
+
+This statement of intent is important for open source project sustainability, even if the current reality is that all technical expertise lies within one org.
+
+>  [See the agenda and notes for past and upcoming technical steering team meetings].
+
+Ideally these should be publicly shared so that the community understands which decisions have been made and why, and can confidently bring something to the attention of the tech steering team.
+
+> The current team members are: [name], (organization)
+
+If you have volunteers or independent experts, leave off organization.
+
+## Join the community
+
+> We aim to be a welcoming community.
+
+Of course you do! Your current size or funding shouldn't limit your ambitions or enthusiasm for collaborating with other likeminded souls. 
+
+> To share your ideas for [codebase]'s code or functionality, please see CONTRIBUTING.md.
+
+For small, dormant or poorly funded projects, make sure CONTRIBUTING.md discourages surprise PRs without an issue being raised first to discuss the proposal.
+
+> (ONLY IF RELEVANT) You can also [join the discussion/connect with the community] at [community discussion forum].
+
+This could be a mailing list, GitHub Discussions, a forum like Discourse or a chat platform like Mattermost.
+Encouraging community members to learn from each other may reduce questions aimed at the product and technical steering teams.
+It may also make it more fun to be part of your community.
+
+> If you're interested in using [codebase] in your organization, we're happy to share our experience so far.
+
+Who's the best advocate for your community when it comes to marketing to other public sector organizations?

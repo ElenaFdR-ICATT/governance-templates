@@ -49,14 +49,14 @@ Changes to codebase governance may only be made by the product steering team and
 
 The current team members are:
 
-* [name], (public sector organization)
-* [name], (public sector organization)
-* [name], (public sector organization) (chair)
+* [name], ([public sector organization])
+* [name], ([public sector organization])
+* [name], ([public sector organization]) (chair)
 
 Non-voting regular advisors:
 
-* [name], (organization)
-* [name], (organization)
+* [name], ([organization])
+* [name], ([organization])
 
 (ONLY IF RELEVANT) [See the agenda and notes for past and upcoming product steering team meetings].
 
@@ -91,9 +91,9 @@ Ideally, no one company or organization will employ a simple majority of the tec
 
 The current team members are:
 
-* [name], (organization)
-* [name], (organization)
-* [name], (organization) (chair)
+* [name], ([organization])
+* [name], ([organization])
+* [name], ([organization]) (chair)
 
 (ONLY IF RELEVANT) [See the agenda and notes for past and upcoming technical steering team meetings].
 
